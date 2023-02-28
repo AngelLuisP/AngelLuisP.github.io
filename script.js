@@ -33,7 +33,7 @@ function contador_aum(){
 function colorContador(value){
     let resultado
     if (value > 0) {
-        resultado = parrafo.style.color = 'green';
+        resultado = parrafo.style.color = '#00FF32';
     }
     if (value ==0 ) {
         resultado = parrafo.style.color = 'black';
